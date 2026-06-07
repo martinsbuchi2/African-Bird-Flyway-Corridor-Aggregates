@@ -1,9 +1,14 @@
-*.qgz
+# Large binary data files
 *.gpkg
 *.tif
 *.tiff
+*.qgz
 *.zip
+# GPS animation frames
 GPS_Animation_Checkpoint*.png
+# Python
 *.pyc
 __pycache__/
 *.tmp
+_push_to_github.py
+_push_batch.py
