@@ -1,0 +1,9 @@
+*.qgz
+*.gpkg
+*.tif
+*.tiff
+*.zip
+GPS_Animation_Checkpoint*.png
+*.pyc
+__pycache__/
+*.tmp
